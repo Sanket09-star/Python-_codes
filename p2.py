@@ -1,0 +1,10 @@
+print("Enter Two Integer Values : ")
+n1, n2 = int(input()), int(input())
+print("Addition is :", (n1+n2))
+print("Subtracton is :", (n1-n2))
+print("Multiplication is :", (n1*n2))
+print("Division is :", (n1/n2))
+print("Floor Division is :", (n1//n2))
+print("Remainder is :", (n1 % n2))
+print("Power is :", (n1**n2))
+
